@@ -1,0 +1,14 @@
+<html>
+    <head>      monkeyfile       <br/>
+        <title> Introduction </title> </head>
+        <body>
+
+            first line<br/>
+            second line<hr/>
+            third line<br/>
+            fourth line<img>
+            <line type>="text/css" href="mycssstyle.css"/>
+
+        </body>
+
+</html>
